@@ -1,4 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+# Name: HARISHKUMAR R
+# Reg no: 212223230073
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
